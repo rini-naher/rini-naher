@@ -16,6 +16,7 @@
     border: 2px solid transparent;
     outline: none;
     cursor: pointer;
+    transition: all .9s;
 }
 .btn-primary{
     background: var(--primary);

@@ -46,8 +46,12 @@ header nav {
 }
 header nav .branding{
     margin-right: 3rem;
+
 }   
 
-
+header nav img{
+    width: 70px;
+    height: 43px;
+}
 
 
