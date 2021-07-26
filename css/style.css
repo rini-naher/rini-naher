@@ -57,7 +57,7 @@ header nav div div img{
 }
 
 .hero .right{
-    color: var(--pure);
+    color: var(--ternary);
 }
 .hero .right h6{
     font-size: 1.6rem;
