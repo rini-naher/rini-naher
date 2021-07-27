@@ -74,7 +74,7 @@ header nav div div img{
     line-height: 1.2;
     margin-bottom: 2rem;
 }
-.hero .right h1 span{
+.span{
     color: var(--primary);
 }
 .hero .right p{
@@ -83,4 +83,14 @@ header nav div div img{
 }
 .hero .right{
     margin-top: -7rem;
+}
+section{
+    padding: 6rem 0;
+}
+section.about .about-me-img{
+    height: 450px;
+}
+section.about h1{
+    margin-bottom: 1rem;
+    font-size: 1.6rem;
 }
